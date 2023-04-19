@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "shoppingsite",
+			"path": "shoppingsite"
+		},
+		{
+			"name": "shoppingsite-1",
+			"path": "shoppingsite-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Restuarant Website"
+	}
+}
